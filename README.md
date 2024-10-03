@@ -5,23 +5,23 @@
 
 <img align="center" src="https://media1.tenor.com/m/zWLzYDsUprAAAAAC/anime-boy.gif" alt="Hacker GIF" />
 
-- 🌱 I’m currently learning **Python** and intend to learn **JavaScript** as well
+- 🌱 Men hozirda **Python** tilini o'rganayapman va **JavaScript** ham o'rganmoqchiman
+- 📫 Menga qanday bog'lanish mumkin [ozodbekm84@gmail.com](mailto:ozodbekm84@gmail.com)
+- ⚡ Qiziqarlik fakt, men tunda klassik musiqaga tinglayman
 
-- 📫 How to reach me **ozodbekm84@gmail.com**
-
-- ⚡ Fun fact **I love coding at night while listening to classical music**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Men bilan bog'laning:</h3>
 <p align="left">
 <a href="https://x.com/Ozodbek64549965" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/X_logo.svg" alt="@Ozodbek64549965" height="30" width="30" />
 </a>
-<a href="https://instagram.com/ozodbekmamaruziyev_06" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="ozodbekmamaruziyev_06" height="30" width="30" /></a>
+<a href="https://instagram.com/ozodbekmamaruziyev_06" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="@ozodbekmamaruziyev_06" height="30" width="30" />
+</a>
 <a href="https://t.me/ozodbek11_06" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Telegram_logo.svg" alt="@ozodbek11_06" height="30" width="30" />
 </a>
-</a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

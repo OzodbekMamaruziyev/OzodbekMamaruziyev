@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👋, I'm [Ozodbek Mamaruziyev]</h1>
-<h3 align="center">A passionate [Student] from [Uzbekistan,Fergana city]</h3>
+<h1 align="center">Hi there 👋, I'm [Ozodbek]</h1>
+<h3 align="center">A passionate [Student] from [Uzbekistan]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=[your-github-username]&label=Profile%20views&color=0e75b6&style=flat" alt="[your-github-username]" /> </p>
 
-- 🌱 I’m currently learning **[I am currently learning python and intend to learn javascript in the future]**
+- 🌱 I’m currently learning **[I am currently learning python and intend to learn javascript as well]**
 
-- 💬 Ask me about **[😀]**
+- 💬 Ask me about **[😄]**
 
 - 📫 How to reach me **[ozodbekm84@gmail.com]**
 
@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/[your-linkedin-username]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="[your-linkedin-username]" height="30" width="40" /></a>
-<a href="https://x.com/[https://x.com/Ozodbek64549965]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" alt="[https://x.com/Ozodbek64549965]" height="30" width="40" /></a>
-<a href="https://instagram.com/[your-instagram-username]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="[https://www.instagram.com/ozodbekmamaruziyev_06/?hl=ru]" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/[your-stackoverflow-id]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="[your-stackoverflow-id]" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/[your-linkedin-username]" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="[your-linkedin-username]" height="30" width="30" /></a>
+<a href="https://x.com/[your-x-username]" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/X_logo.svg" alt="[your-x-username]" height="30" width="30" /></a>
+<a href="https://instagram.com/[your-instagram-username]" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="[your-instagram-username]" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/[your-stackoverflow-id]" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="[your-stackoverflow-id]" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

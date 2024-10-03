@@ -17,6 +17,10 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/X_logo.svg" alt="@Ozodbek64549965" height="30" width="30" />
 </a>
 <a href="https://instagram.com/ozodbekmamaruziyev_06" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="ozodbekmamaruziyev_06" height="30" width="30" /></a>
+<a href="https://t.me/ozodbek11_06" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Telegram_logo.svg" alt="@ozodbek11_06" height="30" width="30" />
+</a>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

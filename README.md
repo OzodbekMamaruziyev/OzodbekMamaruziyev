@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OzodbekMamaruziyev&label=Profile%20views&color=0e75b6&style=flat" alt="OzodbekMamaruziyev" /> </p>
 
-<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0uy_mlMr5-v1YDcILGx4uy&ust=1728071071197000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLDzr9X88ogDFQAAAAAdAAAAABAE" alt="Hacker GIF" />
+<img align="center" src="https://media1.tenor.com/m/zWLzYDsUprAAAAAC/anime-boy.gif" alt="Hacker GIF" />
 
 - 🌱 I’m currently learning **Python** and intend to learn **JavaScript** as well
 

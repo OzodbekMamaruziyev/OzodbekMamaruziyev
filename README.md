@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/[your-linkedin-username]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="[your-linkedin-username]" height="30" width="40" /></a>
-<a href="https://x.com/[https://x.com/home]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="[https://x.com/home]" height="30" width="40" /></a>
+<a href="https://x.com/[https://x.com/Ozodbek64549965]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" alt="[https://x.com/Ozodbek64549965]" height="30" width="40" /></a>
 <a href="https://instagram.com/[your-instagram-username]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="[https://www.instagram.com/ozodbekmamaruziyev_06/?hl=ru]" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/[your-stackoverflow-id]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="[your-stackoverflow-id]" height="30" width="40" /></a>
 </p>

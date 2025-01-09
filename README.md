@@ -5,7 +5,7 @@
 
 <img align="center" src="https://media1.tenor.com/m/zWLzYDsUprAAAAAC/anime-boy.gif" alt="Hacker GIF" />
 
-- 🌱 Men hozirda I am learning **Python** and also want to learn **JavaScript**
+- 🌱 I am learning **Python** and also want to learn **JavaScript**
 
 - 📫How can I be contacted? [ozodbekm84@gmail.com](mailto:ozodbekm84@gmail.com)
 - ⚡ Fun fact, I listen to classical music at night

@@ -7,7 +7,7 @@
 
 - 🌱 I am learning **Python** and also want to learn **JavaScript**
 
-- 📫How can I be contacted? [ozodbekm84@gmail.com](mailto:ozodbekm84@gmail.com)
+- 📫 How can I be contacted? [ozodbekm84@gmail.com](mailto:ozodbekm84@gmail.com)
 - ⚡ Fun fact, I listen to classical music at night
 
 <h3 align="left">Men bilan bog'laning:</h3>
@@ -22,7 +22,6 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Telegram_logo.svg" alt="@ozodbek11_06" height="30" width="30" />
 </a>
 </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

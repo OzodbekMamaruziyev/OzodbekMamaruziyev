@@ -6,7 +6,7 @@
 <!-- New video link -->
 <p align="center">
   <a href="https://pin.it/2Ju6jMLXw">
-    <img align="center" src="https://media1.tenor.com/m/zWLzYDsUprAAAAAC/anime-boy.gif" alt="Video" />
+    <img align="center" src="https://i.pinimg.com/originals/7e/0d/61/7e0d61f69505fa9985e933f351975ebf.gif" alt="Video" width="300"/>
   </a>
 </p>
 

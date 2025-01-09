@@ -3,12 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OzodbekMamaruziyev&label=Profile%20views&color=0e75b6&style=flat" alt="OzodbekMamaruziyev" /> </p>
 
-<!-- Replace this with the actual GIF link -->
-<p align="center">
-  <a href="https://pin.it/2Ju6jMLXw">
-    <img align="center" src="https://media.giphy.com/media/XfQn7ih9hLNvw/giphy.gif" alt="Video GIF" />
-  </a>
-</p>
+<img align="center" src="https://media1.tenor.com/m/zWLzYDsUprAAAAAC/anime-boy.gif" alt="Hacker GIF" />
 
 - 🌱 I am learning **Python** and also want to learn **JavaScript**
 

@@ -5,9 +5,10 @@
 
 <img align="center" src="https://media1.tenor.com/m/zWLzYDsUprAAAAAC/anime-boy.gif" alt="Hacker GIF" />
 
-- 🌱 Men hozirda **Python** tilini o'rganayapman va **JavaScript** ham o'rganmoqchiman
-- 📫 Menga qanday bog'lanish mumkin [ozodbekm84@gmail.com](mailto:ozodbekm84@gmail.com)
-- ⚡ Qiziqarlik fakt, men tunda klassik musiqaga tinglayman
+- 🌱 Men hozirda I am learning **Python** and also want to learn **JavaScript**
+
+- 📫How can I be contacted? [ozodbekm84@gmail.com](mailto:ozodbekm84@gmail.com)
+- ⚡ Fun fact, I listen to classical music at night
 
 <h3 align="left">Men bilan bog'laning:</h3>
 <p align="left">

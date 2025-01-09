@@ -12,8 +12,9 @@
 
 <h3 align="left">Men bilan bog'laning:</h3>
 <p align="left">
+    
 <a href="https://x.com/Ozodbek64549965" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/X_logo.svg" alt="@Ozodbek64549965" height="30" width="30" />
+    <img align="center" src="https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" alt="@Ozodbek64549965" height="30" width="30" />
 </a>
 <a href="https://instagram.com/ozodbekmamaruziyev_06" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="@ozodbekmamaruziyev_06" height="30" width="30" />

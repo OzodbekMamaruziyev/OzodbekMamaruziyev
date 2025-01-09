@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OzodbekMamaruziyev&label=Profile%20views&color=0e75b6&style=flat" alt="OzodbekMamaruziyev" /> </p>
 
-<!-- New video link -->
+<!-- Replace this with the actual GIF link -->
 <p align="center">
   <a href="https://pin.it/2Ju6jMLXw">
-    <img align="center" src="https://i.pinimg.com/originals/7e/0d/61/7e0d61f69505fa9985e933f351975ebf.gif" alt="Video" width="300"/>
+    <img align="center" src="https://media.giphy.com/media/XfQn7ih9hLNvw/giphy.gif" alt="Video GIF" />
   </a>
 </p>
 

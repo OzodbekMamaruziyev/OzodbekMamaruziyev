@@ -9,6 +9,7 @@
 
 - 📫 How can I be contacted? [ozodbekm84@gmail.com](mailto:ozodbekm84@gmail.com)
 - ⚡ Fun fact, I listen to classical music at night
+- 🔥 My Portfolio--> [https://myportfolio-zeta-opal.vercel.app/]
 
 <h3 align="left">Men bilan bog'laning:</h3>
 <p align="left">

@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/Klein_Moretti00" target="blank">
-    <img align="center" src="(https://icon2.cleanpng.com/20240119/phb/transparent-x-icon-black-and-white-x-in-the-1710888893456.webp)" alt="@Klein_Moretti00" height="30" width="30" />
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="@Klein_Moretti00" height="30" width="30" />
 </a>
 <a href="https://t.me/Ozodbek_Mamaruziyev" target="blank">
     <img align="center" src="https://static.vecteezy.com/system/resources/previews/016/716/472/non_2x/telegram-icon-free-png.png" alt="Telegram" height="30" width="30" />

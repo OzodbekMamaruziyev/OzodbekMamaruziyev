@@ -6,9 +6,16 @@
 
 - 🚀 Building **portfol.uz** — SaaS portfolio platform for designers
 - ⚔️ Built **ArenaAlliance.uz** — Gaming top-up marketplace with payment integrations
+- 🎮 Built **3D Koenigsegg Configurator** — Interactive 3D car experience
+- 🌱 Built **SmartGrow** — IoT greenhouse monitoring dashboard
 - 🤖 Vibe Coder — I build with AI (Cursor, Windsurf, Claude)
 - 📫 How can I be contacted? [ozodbekm84@gmail.com](mailto:ozodbekm84@gmail.com)
-- 🔥 My Portfolio --> [portfol.uz/gabimarum84](https://portfol.uz/gabimarum84)
+- 🔥 My Projects:
+  - [portfol.uz](https://portfol.uz) — SaaS Portfolio Platform
+  - [arenaalliance.uz](https://arenaalliance.uz) — Gaming Marketplace
+  - [3D Car Configurator](https://3-d-car-koenigsegg.vercel.app) — Three.js Experience
+  - [SmartGrow](https://smartgrow06.vercel.app/admin/dashboard) — IoT Dashboard
+- 📢 Portfolio Channel --> [t.me/ozodbekm84](https://t.me/ozodbekm84)
 - ⚡ Fun fact, I listen to classical music at night
 
 <h3 align="left">Connect with me:</h3>
